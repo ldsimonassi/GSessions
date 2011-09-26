@@ -1,0 +1,25 @@
+GSessions v0.1 Alpha
+--------- ---- -----
+
+GSessions is under construction but it actually works and its tests run OK.
+
+GSessions is an objects session manager. It's main application is to share through any medium (ie server/disk/networl) a complex object graph and be able to modify this model from diferent clients.
+
+Client -> model -> Medium <- model <- Client
+
+Clients can be implemented only in groovy currently.
+
+The only available Mediums are:
+
+1) A still very poor quality Node.JS Http key value Store.
+2) A disk store.
+
+
+Our immediate intentions are:
+
+1) To build a JSessions to enable HTML5 clients.
+2) To improove the Http Server Quality.
+3) To add authorization for the resources.
+4) To add version control for the objects.
+
+

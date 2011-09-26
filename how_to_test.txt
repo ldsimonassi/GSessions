@@ -1,0 +1,16 @@
+To run the tests use:
+-- --- --- ----- ---
+
+Start the http store server (Implemented in node.js)
+
+$> cd http_store_server
+$> ./start.sh
+
+In another window run the tests.:
+
+$> mvn clean test
+
+This will store some files in many places, if you want to erase them run the following line:
+
+./drop.sh
+

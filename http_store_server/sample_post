@@ -1,0 +1,15 @@
+{
+	"save":{
+			"0-1": [{"name":"myScoreUnits","value":"1-70","type":"REF"},
+				 	{"name":"wireId","value":"7","type":"INT"},
+				 	{"name":"player","value":null,"type":"REF"},
+			   	 	{"name":"myCore","value":"1-0","type":"REF"}],
+			"0-2": [{"name":"myScoreUnits","value":"1-70","type":"REF"},
+					{"name":"wireId","value":"7","type":"INT"},
+					{"name":"player","value":null,"type":"REF"},
+					{"name":"myCore","value":"1-0","type":"REF"}]
+			},
+	"refresh":{"1-10":4555,
+			   "1-1":4555
+			   }
+}
